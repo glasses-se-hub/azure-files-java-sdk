@@ -11,6 +11,9 @@ JUnitは書いてません。
     public static final String connectStr = "DefaultEndpointsProtocol=https;"
       + "AccountName=<Account Name>;" + "AccountKey=<Account Key>";
 
+アカウントキーの作成、確認方法はこちら↓  
+[https://docs.microsoft.com/ja-jp/azure/storage/common/storage-account-keys-manage?tabs=azure-portal](https://docs.microsoft.com/ja-jp/azure/storage/common/storage-account-keys-manage?tabs=azure-portal)
+
 ## 参考
 以下の公式の実装サンプルをほぼそのまま利用してます。  
 [Microsoft公式](https://docs.microsoft.com/ja-jp/azure/storage/files/storage-java-how-to-use-file-storage?tabs=java)
