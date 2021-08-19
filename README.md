@@ -1,4 +1,4 @@
-# azure-files-java-sdk
+# Azure Files Java SDK 動作確認
 
 Azure Java SDKでAzure Filesを触ってみた。  
 ファイルアップロードだけ公式通り実装しても上手くいかず少し苦戦した。  
