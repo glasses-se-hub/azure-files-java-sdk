@@ -8,7 +8,7 @@
   <packaging>jar</packaging>
 
   <name>azure-files-java-sdk</name>
-  <url>http://maven.apache.org</url>
+  <url>http://glasses-se-note.com/azure-files-java-sdk/</url>
 
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
